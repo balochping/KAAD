@@ -1,10 +1,14 @@
 {
+  "ok": true,
   "servers_rev": 1,
   "news": [
     {
+      "id": 1,
       "title": "اطلاعیه بلوچ پینگ",
-      "body": "به نسخه جدید خوش آمدید! سرورها بروزرسانی شدند.",
-      "url": "https://t.me/DNS_GAMINGX"
+      "body": "خوش آمدید! سرورها بروزرسانی شدند",
+      "url": "https://t.me/DNS_GAMINGX",
+      "createdAt": "2026-10-13 21:00:00",
+      "created_at": "2026-10-13 21:00:00"
     }
   ]
 }
